@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+e:\cấu trúc dữ liệu gt\lab4\lab4\lab4.cpp(202): warning C4101: 'val': unreferenced local variable
+e:\cấu trúc dữ liệu gt\lab4\lab4\lab4.cpp(106): warning C4715: 'topStack': not all control paths return a value
+  lab4.vcxproj -> E:\cấu trúc dữ liệu gt\lab4\Debug\lab4.exe
